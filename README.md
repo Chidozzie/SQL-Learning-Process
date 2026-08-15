@@ -7,4 +7,10 @@ Documenting my journey learning SQL — weekly queries and notes
 - Week 4: Applied project + performance (indexes, EXPLAIN, final project)
 
 ## Status
-Not started yet — kicking off tomorrow.
+Week 1 in progress — working through real queries using a Kaggle 
+bank loan dataset (~100,000 rows).
+
+## Projects so far
+- [Average loan amount by status](./week1-avg-loan-amount-by-status.md) 
+  — grouped loans by status, caught and corrected a placeholder-value 
+  data quality issue, compared averages across Fully Paid vs Charged Off
