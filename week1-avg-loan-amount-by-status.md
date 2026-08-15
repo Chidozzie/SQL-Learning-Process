@@ -1,3 +1,5 @@
+**Query file:** [week1-avg-loan-amount-by-status.sql](./week1-avg-loan-amount-by-status.sql)
+
 ## Dataset
 Bank loan dataset from Kaggle. It has 100,000 loan records with fields like loan amount, status, credit score, income, and purpose
 
